@@ -38,6 +38,32 @@ $ pip install pika
 
 ---
 
+## Решение 2 
+При выполнении первого скрипта.
+
+<img src = "img/img2.png" width = 100%>
+
+Привыолнении второго скрита вышла ошибка 
+
+<img src = "img/img3.png" width = 100%>
+<img src = "img/img4.png" width = 100%>
+
+Вот решение данной ошибки
+
+<img src = "img/img5.png" width = 100%>
+<img src = "img/img6.png" width = 100%>
+
+Вот так выглядит скипрт , который я запустил 
+
+<img src = "img/img7.png" width = 100%>
+
+А вот так выглядит RebbitMQ после него 
+
+<img src = "img/img6.png" width = 100%>
+
+
+---
+
 ### Задание 3. Подготовка HA кластера
 
 Используя Vagrant или VirtualBox, создайте вторую виртуальную машину и установите RabbitMQ.
