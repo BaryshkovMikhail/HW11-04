@@ -59,7 +59,7 @@ $ pip install pika
 
 А вот так выглядит RebbitMQ после него 
 
-<img src = "img/img6.png" width = 100%>
+<img src = "img/img8.png" width = 100%>
 
 
 ---
